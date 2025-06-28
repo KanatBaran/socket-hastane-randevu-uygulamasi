@@ -1,0 +1,3 @@
+Doktor2;Hasta2
+Doktor1;Hasta1,Hasta3
+Doktor3
